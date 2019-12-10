@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#wrap {
+	height: 780px;
+    width: 100%;
+    position: relative;
+
+    background-color: #f2f2f2;
+	
+}
+
+.loginForm{
+    height: 380px;
+    width: 380px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-left: -190px;
+
+    background-color: #ffffff;
+}
+
+#loginTitle{
+    margin-top: 30px;
+    margin-left: 50px;
+
+    font-size: 28px;
+    font-weight: bold;
+    color: #222222;
+}
+
+#divider{
+    width: 260px;
+    height: 1px;
+    margin-top: 4px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+
+    background-color:#e57700
+}
+
+.loginInput{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.longInput{
+    margin-left: 20px;
+    padding: 4px;
+    width: 180px;
+    height:20px;
+}
+
+#veriCode{
+    margin-left: 20px;
+    padding: 4px;
+    width: 100px;
+    height: 20px;
+}
+
+#getVeriButton{
+    margin-left: 6px;
+    padding: 6px;
+
+    background-color: #e57700;
+    color: #ffffff;
+    border: 0;
+}
+
+#buttonDis{
+    margin-top:40px;
+    margin-left:50px;
+    margin-right:60px;
+}
+
+.smallButton{
+    padding: 6px;
+    width:126px;
+
+    font-size:16px;
+}
+
+#loginButton{
+    float:left;
+  
+    background-color: #e57700;
+    color: #ffffff;
+    border:0;
+}
+
+#regButton{
+    float:right;
+
+    background-color: #ffffff;
+    color: #e57700;
+    border:0.1px #e57700 solid;
+}
+
+
+
+
